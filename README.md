@@ -1,8 +1,8 @@
 PURPOSE: This project is an Exploratory Data Analysis (EDA) of experimental plasma data from the FAIR-MAST database — a publicly available dataset of 11,573 shots from the Mega Ampere Spherical Tokamak (UK).
 
 GOAL:
-1. Understand and clean the data, then train a simple linear regression model to predict total ohmic heating energy from plasma parameters.
-2. The model is implemented from scratch using NumPy to demonstrate understanding of the underlying mathematics rather than relying on sklearn.
+1. Understand and clean the data.
+2. 
 
 NOTE: This project is the first in a series — future extensions will apply more complex models as my ML knowledge develops.
 
